@@ -1,11 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("OOPS");
 
-        int a = 5;
-        int b = 3;
-        int sum = a + b;
-
-        System.out.println("Sum = " + sum);
-    }
 }
