@@ -10,29 +10,29 @@ public class uc8 {
 
         // O pattern
         patternMap.put('O', new String[]{
-                " * ",
+                " *** ",
                 "*   *",
                 "*   *",
                 "*   *",
-                " * "
+                " *** "
         });
 
         // P pattern
         patternMap.put('P', new String[]{
-                "** ",
+                "**** ",
                 "*   *",
-                "** ",
+                "**** ",
                 "*    ",
                 "*    "
         });
 
         // S pattern
         patternMap.put('S', new String[]{
-                " **",
+                " ****",
                 "*    ",
-                " * ",
+                " *** ",
                 "    *",
-                "** "
+                "**** "
         });
 
         String word = "OOPS";
